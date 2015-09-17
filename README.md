@@ -1,8 +1,8 @@
 # Assortment Planning with the Self-Organizing Map
 
-We applied the self-organizing map (SOM) to solve an assortment planning problem for our customer (Lehtipiste). We introduce a case study in a still unpublished paper  where data science approach is used to optimize a supply chain of single-copy magazines in Finland. The initial results of a still unpublished academic paper show that the sales is improved by 29% (http://www.solita.fi/ajankohtaista/solita-science-edellakavijyytta-tutkimuksen-kautta/). 
+We applied the self-organizing map (SOM) to solve an assortment planning problem for our customer (Lehtipiste). We introduce a case study in a still unpublished paper where data science approach is used to optimize a supply chain of single-copy magazines in Finland. The initial results of a still unpublished academic paper show that the sales is improved by 29% (http://www.solita.fi/ajankohtaista/solita-science-edellakavijyytta-tutkimuksen-kautta/). 
 
-The work on this method has been currently stopped because there are no currently resources to advance in the research. Need 4 Speed program (http://n4s.fi) has helped a lot in the experimentation and academic work so far.
+The work on this method has been currently stopped because there are no currently resources to advance in the research. Need 4 Speed program (http://n4s.fi) has helped a lot in the experimentation and academic work so far. Tampere University of Technology has participated in development and research of the method.
 
 Empirical real world experimentation with 8 products and some hundred sales outlets together with a simulation showed resulted to an improvement of 45%. It is still unkown how the solution applies to the total yearly sales of single copy magazines in Finland.
 
