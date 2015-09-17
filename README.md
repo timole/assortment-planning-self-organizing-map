@@ -8,7 +8,7 @@ Empirical real world experimentation with 8 products and some hundred sales outl
 
 The method is simple and straight-forward:
 
-!(img/neural-networks.png)
+![Neural Networks](/img/neural-networks.png)
 
 1. Export sales data of previous period
 2. Organize the sales data with the SOM
