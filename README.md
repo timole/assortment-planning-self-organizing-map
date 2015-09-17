@@ -55,9 +55,8 @@ The experiment was done in a small scale. It is unknown how e.g. product canniba
 
 In the best case, this approach could work in any domain with thousands of products and sales outlets:
 
-!(img/som-where.png)
+![SOM](/img/som-where.png)
 
 In practice, the method works as follows:
 
-!(img/som-anim.gif)
-
+![SOM-practice](/img/som-anim.gif)
